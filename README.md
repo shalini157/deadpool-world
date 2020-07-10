@@ -1,5 +1,4 @@
 # deadpool-world
-<!DOCTYPE html>
 <html5 lang="en">
 <head>
 <title>DEADPOOL WORLD</title>
@@ -8,10 +7,9 @@
 <h1 style="background-color:darkred" align="center">DEADPOOL WORLD</h1>
     <h1 style="color:white">DEADPOOL STARCAST</h1>
     <p><h2 style="color:darkred">RYAN RENOLDS as "WADE WILSON"or"THE DEADPOOL"</h2></p>
-    <p><h2 style="color:darkred">to know more about ryan renolds click <a href="https://en.wikipedia.org/wiki/Ryan_Reynolds">here</a></h2></p>
-    <img src="https://raw.githubusercontent.com/shalini157/deadpool-world/master/ryan.jpg">
-    <p><h2 style="color:red">MORENA BACCARIN as "VANESSA"(as wade's girlfriend)</h2></p>
-         <img src="https://github.com/shalini157/deadpool-world/blob/master/vanessa.jpg">
+    <p><h3 style="color:darkred">to know more about ryan renolds click <a href="https://en.wikipedia.org/wiki/Ryan_Reynolds">here</a></h3></p>
+   <p><h2 style="color:red">MORENA BACCARIN as "VANESSA"(as wade's girlfriend)</h2></p>
+         
     <p><h1 style="color:darkred">DEADPOOL(film)</h1></p>
     <p><h3 style="color:white">
     Deadpool is a 2016 American superhero film based on the Marvel Comics character of the same name. Distributed by 20th Century Fox, it is the eighth film in the X-Men film series. Directed by Tim Miller from a screenplay by Rhett Reese and Paul Wernick, it stars Ryan Reynolds in the title role alongside Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano, and Brianna Hildebrand. In the film, Wade Wilson hunts the man who gave him mutant abilities and a scarred physical appearance, becoming the antihero Deadpool.
@@ -51,27 +49,17 @@
     In a mid-credits sequence, Negasonic Teenage Warhead and her girlfriend Yukio repair Cable's time-traveling device for Wilson. He uses it to save the lives of Vanessa and X-Force member Peter, and kills both X-Men Origins: Wolverine's version of Deadpool and actor Ryan Reynolds while he is considering starring in the film Green Lantern.
 </h3></p>
         <section style="align-content:center">
-        <h2 style="color:red" align="center">click on the image to download more images like this</h2>
-        <a href="https://in.pinterest.com/search/pins/?q=deadpool&rs=typed&term_meta[]=deadpool%7Ctyped">
-            <img src="https://github.com/shalini157/deadpool-world/blob/master/deadpoolfunny.jpg">
-        </a>
+        <h2 style="color:red">To download exciting deadpool images click
+        <a href="https://in.pinterest.com/search/pins/?q=deadpool&rs=typed&term_meta[]=deadpool%7Ctyped">here</a></h2>
     </section>
     <section>
-        <h1 style="color:darkred">THE DEADPOOL THEME</h1>
-        <audio controls>
-           <source src="https://github.com/shalini157/deadpool-world/blob/master/deadpools_theme.mp3">
-        </audio>
 <p><h1 style="color:darkred">
-for more exciting themes click <a href="https://www.zedge.net/find/ringtones/deadpool">here</a></h1></p>
+To download exciting deadpool theme's click <a href="https://www.zedge.net/find/ringtones/deadpool">here</a></h1></p>
         </section>
     <div style="align-content:center">
-<h1 style="color:darkred">DEADPOOL INTRO SCENE</h1>
-<video width="320" height="240" controls>
-      <source src="https://github.com/shalini157/deadpool-world/blob/master/dp.mp4">
-</video>
         <article style="background-color:aquamarine">
 <p><h1 style="color:deeppink">
-to download the DEADPOOL movie in HD for free click <a href="https://pahe.ph/deadpool-2016-remastered-bluray-720p-1080p/">here</a></h1></p>
+To download the DEADPOOL movie in HD for free click <a href="https://pahe.ph/deadpool-2016-remastered-bluray-720p-1080p/">here</a></h1></p>
             <p><h1 style="color:deeppink">
                 To download DEADPOOL 2 movie in HD for free click <a href="https://pahe.ph/deadpool-2-2018-extended-remastered-bluray-720p-1080p/">here</a></h1></p>
         </article>
